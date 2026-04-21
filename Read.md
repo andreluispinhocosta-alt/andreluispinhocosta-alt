@@ -30,3 +30,5 @@ Uma plataforma de impacto social criada para conectar pequenos agricultores, com
 * **Trabalho em Equipe:** Uso avançado de Git e GitHub para colaboração e versionamento do sistema.
 
 > **Status:** Atualmente focando na integração de módulos e escalabilidade do sistema.
+> 
+> [🔗 Acessar Repositório do Projeto](https://github.com/FIAP-ON-2025/AgroConnect-React.git)
