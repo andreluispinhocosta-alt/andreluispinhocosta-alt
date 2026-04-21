@@ -14,7 +14,7 @@
         🎓 FIAP - Eng. de Software
       </p>
       <div align="center">
-         <a href="COLE_AQUI_SEU_LINKEDIN" target="_blank">
+         <a href="https://www.linkedin.com/in/andr%C3%A9-luis-7433a5380" target="_blank">
             <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120">
          </a>
       </div>
