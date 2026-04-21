@@ -15,7 +15,7 @@ Plataforma inteligente desenvolvida para auxiliar profissionais na transição d
 * **Foco do Projeto:** Diagnóstico de competências (Soft & Hard Skills) e orientação profissional.
 * **Status:** Projeto concluído com foco em impacto social e inovação.
 
-[🔗 Acessar Repositório do Projeto](https://github.com/FIAP-ON-2025/Global-Solution.git)
+[🔗 Acessar Repositório do Projeto](https://github.com/FIAP-ON-2025/Global-Solution-2025.git)
 ### 🚧 Em Desenvolvimento: AgroConnect – FIAP
 *Agosto de 2025 – Presente*
 
